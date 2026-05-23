@@ -23,3 +23,9 @@ python app.py
 - Python
 - OpenCV
 - MediaPipe
+
+## Project Demo
+
+Click below to watch the real-time gesture recognition demo:
+
+[▶ Watch Demo Video](./demo.mp4)
